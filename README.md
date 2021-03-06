@@ -1,2 +1,1 @@
-# tinDOG
- This is static webpage. 
+TinDog Starting Files
